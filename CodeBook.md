@@ -1,10 +1,12 @@
-# Dataset Information
+# OVERVIEW
 This codebook is relating to the file tidydata.txt, the result of the project.
 
-## tidydata.txt
+## TIDYDATA.TXT
 180 rows (observations)
+
 68 columns (variables)
 
+### VARIABLES
 ### Identifiers labels
 - `subject` ID of the subject, from 1 to 30.
 - `activity` laying, sitting, standing, walking, walking_downstairs and walking_upstairs (6 activities)
@@ -78,5 +80,5 @@ This codebook is relating to the file tidydata.txt, the result of the project.
 - `fBodyBodyGyroJerkMag-mean()`
 - `fBodyBodyGyroJerkMag-std()`
 
-### Results
+### OBSERVATIONS
 The tidydata.txt takes the average of each measurement grouped by subject and activity.
